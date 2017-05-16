@@ -1,0 +1,1 @@
+/var/www/html/m26/vendor/magento/module-catalog/view/frontend/web/js/view/compare-products.js
